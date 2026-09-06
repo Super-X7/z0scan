@@ -28,3 +28,7 @@ python-dateutil
 elasticsearch
 ldap3
 paramiko
+
+
+
+numpy
